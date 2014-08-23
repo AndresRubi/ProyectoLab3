@@ -1,0 +1,144 @@
+# depslib dependency file v1.0
+1408715348 source:/home/arubi/Documentos/CodeBlocks/Progra3Lab_Examen1/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	"personaje.h"
+
+1408695406 source:/home/arubi/Documentos/CodeBlocks/Progra3Lab_Examen1/mapa.cpp
+	"mapa.h"
+
+1408695406 /home/arubi/Documentos/CodeBlocks/Progra3Lab_Examen1/mapa.h
+
+1408714779 /home/arubi/Documentos/CodeBlocks/Progra3Lab_Examen1/personaje.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408714949 source:/home/arubi/Documentos/CodeBlocks/Progra3Lab_Examen1/personaje.cpp
+	"personaje.h"
+
+1408728827 source:/home/josselyn/Downloads/Progra3Lab_Examen1/personaje.cpp
+	"personaje.h"
+
+1408728827 /home/josselyn/Downloads/Progra3Lab_Examen1/personaje.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408733036 source:/home/josselyn/Downloads/Progra3Lab_Examen1/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	"personaje.h"
+	"Mago.h"
+	"Guerrero.h"
+	"Caballero.h"
+	"Mago1.h"
+	"Caballero1.h"
+	"Guerrero1.h"
+
+1408729527 source:/home/josselyn/Downloads/Progra3Lab_Examen1/Mago.cpp
+	"Mago.h"
+
+1408733215 /home/josselyn/Downloads/Progra3Lab_Examen1/Mago.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408729527 source:/home/josselyn/Downloads/Progra3Lab_Examen1/Guerrero.cpp
+	"Guerrero.h"
+
+1408730027 /home/josselyn/Downloads/Progra3Lab_Examen1/Guerrero.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408730027 source:/home/josselyn/Downloads/Progra3Lab_Examen1/Caballero.cpp
+	"Caballero.h"
+
+1408733293 /home/josselyn/Downloads/Progra3Lab_Examen1/Caballero.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408731312 source:/home/josselyn/Downloads/Progra3Lab_Examen1/Mago1.cpp
+	"Mago1.h"
+
+1408733215 /home/josselyn/Downloads/Progra3Lab_Examen1/Mago1.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408731681 source:/home/josselyn/Downloads/Progra3Lab_Examen1/Caballero1.cpp
+	"Caballero1.h"
+
+1408733293 /home/josselyn/Downloads/Progra3Lab_Examen1/Caballero1.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408732159 source:/home/josselyn/Downloads/Progra3Lab_Examen1/Guerrero1.cpp
+	"Guerrero1.h"
+
+1408733293 /home/josselyn/Downloads/Progra3Lab_Examen1/Guerrero1.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408749765 source:/home/arubi/Music/Progra3Lab_Examen1/Caballero.cpp
+	"Caballero.h"
+
+1408749800 /home/arubi/Music/Progra3Lab_Examen1/Caballero.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408752214 source:/home/arubi/Music/Progra3Lab_Examen1/Caballero1.cpp
+	"Caballero1.h"
+
+1408752214 /home/arubi/Music/Progra3Lab_Examen1/Caballero1.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408749809 source:/home/arubi/Music/Progra3Lab_Examen1/Guerrero.cpp
+	"Guerrero.h"
+
+1408749765 /home/arubi/Music/Progra3Lab_Examen1/Guerrero.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408752222 source:/home/arubi/Music/Progra3Lab_Examen1/Guerrero1.cpp
+	"Guerrero1.h"
+
+1408752214 /home/arubi/Music/Progra3Lab_Examen1/Guerrero1.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408749574 source:/home/arubi/Music/Progra3Lab_Examen1/Mago.cpp
+	"Mago.h"
+
+1408748887 /home/arubi/Music/Progra3Lab_Examen1/Mago.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408752214 source:/home/arubi/Music/Progra3Lab_Examen1/Mago1.cpp
+	"Mago1.h"
+
+1408752214 /home/arubi/Music/Progra3Lab_Examen1/Mago1.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408752398 source:/home/arubi/Music/Progra3Lab_Examen1/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	"personaje.h"
+	"Mago.h"
+	"Guerrero.h"
+	"Caballero.h"
+	"Mago1.h"
+	"Caballero1.h"
+	"Guerrero1.h"
+
+1408728827 /home/arubi/Music/Progra3Lab_Examen1/personaje.h
+	<SDL2/SDL_image.h>
+	<SDL2/SDL.h>
+
+1408728827 source:/home/arubi/Music/Progra3Lab_Examen1/personaje.cpp
+	"personaje.h"
+
